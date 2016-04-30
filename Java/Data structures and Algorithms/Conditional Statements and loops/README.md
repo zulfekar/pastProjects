@@ -37,6 +37,7 @@ Enter value of trade: 30000
 Commission: $166.00
 
 Question 5:
+
 Using the switch statement, write a program that converts a numerical grade into a letter grade:
 Enter numerical grade: 84
 Letter grade: B
