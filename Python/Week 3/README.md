@@ -46,35 +46,44 @@ in an appropriate format.
 Question 8
 
 Write a program which used nested loops to display the following:
+
 1**1<->2**1<->3**1<->4**1<->5**1
 1**2<->2**2<->3**2<->4**2<->5**2
 1**3<->2**3<->3**3<->4**3<->5**3
 
+
 Question 9: 
+
 The Christmas Tree:
 Write a program which displays the following given the input below:
 When x=1
+
 Output:
 *
 When x=2
+
 Output:
 *
 **
 When x=3
+
 Output:
 *
 **
 ***
+
 
 Question 9
 
 Modify the program above such that it displays the following:
 When x=1
+
 Output:
 *
 *
 **
 When x=2
+
 Output:
 *
 *
@@ -83,6 +92,7 @@ Output:
 **
 ***
 When x=3
+
 Output:
 *
 *
