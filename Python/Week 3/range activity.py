@@ -1,0 +1,6 @@
+print range(5)
+print range(5,10)
+print range(4,16,3)
+print range(16,4,-3)
+print range(6,1,-1)
+print range(6,-2,-1)
