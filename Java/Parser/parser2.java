@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.*;
 
 public class parserxml_efficient
-{
+{ 
     static String message="";
     static String value ="";
     static int counterOpening = 0;
